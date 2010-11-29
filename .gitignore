@@ -7,3 +7,4 @@ clojure.ipr
 nbproject/private/
 *.zip
 dist
+.idea
